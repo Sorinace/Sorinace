@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sorin Avram (@Sorinace)  
 - 👀 I’m interested in software development, special WEB (Node, Vue, JS, Python, Java etc.)
-- 🌱 My lat training was Python / Django at Scola Informala de IT (06.2021)
+- 🌱 My last training was Python / Django at Scola Informala de IT (06.2021)
 - 💞️ I’m looking to collaborate on diferent projects
 - 📫 You can contact me on e-mail: sorinace@gmail.com
 
